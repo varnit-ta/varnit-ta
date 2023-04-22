@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+#[![](https://visitcount.itsvg.in/api?id=varnit-ta&icon=5&color=0)](https://visitcount.itsvg.in)
+
 🔭 I’m currently working on an Artificial Intelligence that learns to walk.<br>👯 I’m looking to collaborate on Mechatronics related projects.<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning.<br>💬 Ask me about Python, C and C++.<br>⚡ Fun fact programmers never die, they just go offline.
 
 
@@ -28,4 +31,3 @@
 <img src="https://www.meme-arsenal.com/memes/0fc5499f9d62f5759a639021c3df3152.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=varnit-ta&icon=5&color=0)](https://visitcount.itsvg.in)
