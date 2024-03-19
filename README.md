@@ -36,8 +36,8 @@
 
   
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varnit-ta&show_icons=true&locale=en&layout=compact" alt="varnit-ta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varnit-ta&show_icons=true&locale=en" alt="varnit-ta" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varnit-ta&theme=blue-green&hide_border=true" max-width="100%" width="450px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnit-ta&layout=compact&theme=blue-green&hide_border=true" max-width="100%" width="450px">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
