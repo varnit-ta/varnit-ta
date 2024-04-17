@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm Varnit Singh, a skilled Web Developer proficient in the MERN Stack, TypeScript, and Next.js. <br>🌱I'm currently delving deeper into Machine Learning and Artificial Intelligence, while also eager to explore SvelteKit. <br>👯Passionate about innovation and finance, I'm actively seeking collaboration opportunities on cool Fintech ideas.
+💬 I'm Varnit Singh, a skilled Web Developer proficient in the MERN Stack, TypeScript, and NextJS. <br>🌱I'm currently delving deeper into Machine Learning and Artificial Intelligence, while also eager to explore SvelteKit. <br>👯Passionate about innovation and finance, I'm actively seeking collaboration opportunities on cool Fintech ideas.
 
 
 ## 🌐 Socials:
