@@ -29,9 +29,9 @@
 
 ## Backend Developer | Systems & Product Engineering Enthusiast
 
-<table width="100%" style="border: none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td width="60%" style="border: none;">
+<td width="60%" style="border: none; padding: 0;">
 
 - 🔭 Currently working on [VIT Placement Log](https://placementlog.vercel.app)
 
@@ -44,7 +44,7 @@
 - 📫 How to reach me **varnitsingh65@gmail.com**
 
 </td>
-<td width="40%" align="right" style="border: none;">
+<td width="40%" align="right" style="border: none; padding: 0;">
 
 <a href="https://varnitsingh.vercel.app/" target="_blank">
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'/>
