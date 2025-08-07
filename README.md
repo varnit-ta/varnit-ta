@@ -1,30 +1,57 @@
-  <a href="https://varnitsingh.vercel.app/">
-    <img
-      alt="Aayush Bharti"
-      src="./assets/banner.png"
-      width="100%"
-    />
-  </a>
+<div style="max-width: 1000px; margin: 0 auto;">
+
+<!-- Top Banner -->
+<a href="https://varnitsingh.vercel.app/">
+  <img
+    alt="Varnit Singh"
+    src="./assets/banner.png"
+    width="100%"
+  />
+</a>
 
 <br/>
 
-<a href="https://x.com/varnit_singh_" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Varnit Singh | Twitter" ></img></a>
-<a href="https://www.linkedin.com/in/varnit-ta/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Varnit Singh | Linkedin" /></a>
-<a href="https://github.com/varni-ta" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Varnit Singh | GitHub" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://varnitsingh.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<!-- Social Links -->
+<div align="right">
+  <a href="https://x.com/varnit_singh_" target="_blank">
+    <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Varnit Singh | Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/varnit-ta/" target="_blank">
+    <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Varnit Singh | Linkedin" />
+  </a>
+  <a href="https://github.com/varni-ta" target="_blank">
+    <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Varnit Singh | GitHub" />
+  </a>
+</div>
 
-<h3>Backend Developer | Systems & Product Engineering Enthusiast</h3>
 
-- 🔭 Currently working on [VIT Placement Log](https://placementlog.vercel.app) 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-- 🌱 Exploring **Distributed Systems** and **GoLang**  
+<h2>Backend Developer | Systems & Product Engineering Enthusiast</h2>
 
-- 👨‍💻 Check out my projects on [Website](https://varnitsingh.vercel.app/#work)
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+  <div style="flex: 2;">
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>🔭 Currently working on <a href="https://placementlog.vercel.app">VIT Placement Log</a></li>
+      <br/>
+      <li>🌱 Exploring <strong>Distributed Systems</strong> and <strong>GoLang</strong></li>
+      <br/>
+      <li>👨‍💻 Check out my projects on <a href="https://varnitsingh.vercel.app/#work">Website</a></li>
+      <br/>
+      <li>💬 Ask me about <strong>GoLang, typescript</strong></li>
+      <br/>
+      <li>📫 How to reach me <strong>varnitsingh65@gmail.com</strong></li>
+      <br/>
+    </ul>
+  </div>
 
-- 💬 Ask me about **GoLang, typescript**
-
-- 📫 How to reach me **<varnitsingh65@gmail.com>**
+  <!-- Github Animated Logo -->
+  <div style="flex: 1; text-align: center;">
+    <a href="https://varnitsingh.vercel.app/" target="_blank">
+      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'/>
+    </a>
+  </div>
+</div>
 
 <br/>
 
@@ -33,8 +60,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,nodejs,express,prisma,postgres,supabase,postman,vscode,vercel,vite,bash,linux,c,cpp,py,golang)](varnitsingh.vercel.app)
-
+[![My Skills](https://skillicons.dev/icons?i=golang,js,ts,react,tailwind,git,github,nodejs,express,postgres,supabase,postman,vscode,vercel,vite,bash,linux,c,cpp,py)](varnitsingh.vercel.app)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -44,11 +70,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br/>
@@ -68,3 +89,5 @@ No activity tracked
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
+
+</div>
