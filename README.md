@@ -27,31 +27,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<h2>Backend Developer | Systems & Product Engineering Enthusiast</h2>
+## Backend Developer | Systems & Product Engineering Enthusiast
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
-  <div style="flex: 2;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>🔭 Currently working on <a href="https://placementlog.vercel.app">VIT Placement Log</a></li>
-      <br/>
-      <li>🌱 Exploring <strong>Distributed Systems</strong> and <strong>GoLang</strong></li>
-      <br/>
-      <li>👨‍💻 Check out my projects on <a href="https://varnitsingh.vercel.app/#work">Website</a></li>
-      <br/>
-      <li>💬 Ask me about <strong>GoLang, typescript</strong></li>
-      <br/>
-      <li>📫 How to reach me <strong>varnitsingh65@gmail.com</strong></li>
-      <br/>
-    </ul>
-  </div>
+<table width="100%">
+<tr>
+<td width="60%">
 
-  <!-- Github Animated Logo -->
-  <div style="flex: 1; text-align: center;">
-    <a href="https://varnitsingh.vercel.app/" target="_blank">
-      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'/>
-    </a>
-  </div>
-</div>
+- 🔭 Currently working on [VIT Placement Log](https://placementlog.vercel.app)
+
+- 🌱 Exploring **Distributed Systems** and **GoLang**
+
+- 👨‍💻 Check out my projects on [Website](https://varnitsingh.vercel.app/#work)
+
+- 💬 Ask me about **GoLang, typescript**
+
+- 📫 How to reach me **varnitsingh65@gmail.com**
+
+</td>
+<td width="40%" align="right">
+
+<a href="https://varnitsingh.vercel.app/" target="_blank">
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -77,7 +78,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="20"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=center style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align=center style="display: flex; flex-direction: col; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <span style="flex: 0 0 350px;"><a href="https://varnitsingh.vercel.app"><img width=350 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=varnit-ta&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
   
   <span style="flex: 0 0 350px;"><a href="https://varnitsingh.vercel.app"><img width=350  src="https://github-readme-stats-salesp07.vercel.app/api?username=varnit-ta&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
