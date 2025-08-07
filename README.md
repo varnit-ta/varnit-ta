@@ -27,11 +27,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## Backend Developer | Systems & Product Engineering Enthusiast
+<a href="https://varnitsingh.vercel.app/" target="_blank">
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'/>
+</a>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="60%" style="border: none; padding: 0;">
+<h3>Backend Developer | Systems & Product Engineering Enthusiast</h3>
 
 - 🔭 Currently working on [VIT Placement Log](https://placementlog.vercel.app)
 
@@ -43,27 +43,15 @@
 
 - 📫 How to reach me **varnitsingh65@gmail.com**
 
-</td>
-<td width="40%" align="right" style="border: none; padding: 0;">
-
-<a href="https://varnitsingh.vercel.app/" target="_blank">
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'/>
-</a>
-
-</td>
-</tr>
-</table>
-
 <br/>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> &ensp; <b> Things I code with</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> &ensp; <b> Things I code with</b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 [![My Skills](https://skillicons.dev/icons?i=golang,js,ts,react,tailwind,git,github,nodejs,express,postgres,supabase,postman,vscode,vercel,vite,bash,linux,c,cpp,py)](varnitsingh.vercel.app)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+</b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
   <a href="https://github.com/varnit-ta/varnit-ta"><img alt="varnit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=varnit-ta&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
