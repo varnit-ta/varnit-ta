@@ -43,6 +43,9 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="20"> &ensp;<b> Stats </b>
