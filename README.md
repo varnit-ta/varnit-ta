@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/varnit-ta/" target="_blank">
     <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Varnit Singh | Linkedin" />
   </a>
-  <a href="https://github.com/varni-ta" target="_blank">
+  <a href="https://github.com/varnit-ta" target="_blank">
     <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Varnit Singh | GitHub" />
   </a>
 </div>
