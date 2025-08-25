@@ -53,14 +53,6 @@
 
 </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="images/breakout-dark.svg"
-    />
-  </picture>
-</div>
 
 <!--START_SECTION:waka-->
 
@@ -73,6 +65,12 @@ SQL            3 mins          █░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+  <picture>
+    <img src="images/breakout-dark.svg" width="100%" height="100%" alt="Breakout" />
+  </picture>
+</div>
 
 <br/>
 
