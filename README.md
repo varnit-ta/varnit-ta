@@ -49,7 +49,7 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> &ensp; <b> Things I code with</b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=golang,js,ts,react,tailwind,git,github,nodejs,express,postgres,supabase,postman,vscode,vercel,vite,bash,linux,c,cpp,py)](varnitsingh.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=golang,js,ts,react,tailwind,git,github,nodejs,express,postgres,supabase,postman,vscode,vercel,vite,bash,linux,c,cpp,py)](https://varnitsingh.vercel.app)
 
 </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
