@@ -57,7 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                38 mins         ███████████████████████░░   91.66 %
+Protocol Buffer   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Other             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Text              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
