@@ -57,11 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                50 mins         ████████████████████████▒   97.89 %
-Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
